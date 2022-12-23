@@ -1,6 +1,16 @@
 ## EzCart 
 
 ## Introduction
+A easy cart for Laravel
+
+## Installation
+```shell script
+// composer
+composer require neccoys/ezcart
+
+// publish
+php artisan vendor:publish --provider="Neccoys\EzCart\EzCartServiceProvider"
+```
 
 ## Quick Usage Example
 
